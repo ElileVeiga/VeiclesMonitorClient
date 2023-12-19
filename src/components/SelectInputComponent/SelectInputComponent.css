@@ -1,0 +1,22 @@
+.SelectInputComponentBox{
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 15rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: burlywood;
+}
+
+.SelectInput{
+    width: 15rem;
+    height: 2rem;
+    background-color: transparent;
+    border: none;
+}
+
+.Options{
+    appearance: none;
+    background-color: burlywood;
+}

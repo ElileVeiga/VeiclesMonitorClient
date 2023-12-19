@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(88, 78, 78);
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.BodyLogin{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.BoxLoginPage{
+  width: 30vw;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  gap: 2vh;
+  border-radius: 2rem;
+}

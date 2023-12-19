@@ -1,0 +1,44 @@
+.Titles{
+    display: flex;
+    border: 0.2vw solid black;
+    padding: 3vh 0 3vh 0;
+    text-transform: uppercase;
+    align-items: center;
+    text-align: center;
+}
+
+
+.prefixo{
+    margin-left: 3vw;
+}
+
+.placa{
+    margin-left: 5vw;
+}
+
+.modelo{
+    margin-left: 5.5vw;
+}
+
+.metroplan{
+    margin-left: 5.5vw;
+}
+.daer{
+    margin-left: 6vw;
+}
+.tacografo{
+    margin-left: 6.5vw;
+}
+.prefeitura{
+    margin-left: 5.5vw;
+}
+
+.ButtonVerific{
+    cursor: pointer;
+    margin-left:5.5vw;
+    padding: 0.3vw;
+    text-transform: uppercase;
+    background-color: rgb(49, 78, 240);
+    color: #fff;
+    border: none;
+}

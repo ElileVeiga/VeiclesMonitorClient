@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.BodyTabsComponentGeral{
+    width: 100vw;
+    height: 100vh;
+}
+
+.TopTabsComponent{
+    padding-left: 3vw;
+    padding-right: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(88, 78, 78);
+    width: 100vw;
+    height: 12vh;
+}
+
+.AreaUser{
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+
+.NomeUser{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.ClassUser{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.ImgUser{
+    background-color: rgb(255, 253, 253);
+    border-radius: 100vh;
+    width: 5rem;
+    height: 5rem;
+}
+
+.LogoImg{
+    width: 10vw;
+    height: 8vh;
+    background-image:url(../../../assets/logo-viacao-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.AreaCenterComponents{
+    width: 100vw;
+    display: flex;
+}
+
+.LeftTabsComponent{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(88, 78, 78);
+    width: 20vw;
+    height: 100vh;
+}
+
+.LeftTabsOcult{
+    border: 0.2vw solid #000;
+    align-items: center;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.AreaSistemComponents{
+    width: 100%;
+    background-color: rgb(150, 150, 163);
+}

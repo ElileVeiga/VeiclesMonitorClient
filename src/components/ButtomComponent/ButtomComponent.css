@@ -1,0 +1,22 @@
+.ButtomArea{
+    display: flex;
+    cursor: pointer;
+    background-color: blue;
+    width: 10rem;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+}
+
+.ButtomArea:hover{
+    padding: 0.8rem;
+}
+
+.AreaTextButtom{
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+.RowInput{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 1rem;
+    gap: 1rem;
+    margin-left: 1rem;
+}
+.AreaCenterButtomCadastrate{
+    margin-top: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
